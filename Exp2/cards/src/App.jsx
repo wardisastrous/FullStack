@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="container mt-5">
       <h2 className="text-center mb-4">
-        Created Layout Using Bootstrap
+        Created Card-Based Layout Using Bootstrap
       </h2>
 
       <div className="row">
