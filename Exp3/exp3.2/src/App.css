@@ -37,7 +37,7 @@ body {
 
 .page {
   max-width: 700px;
-  margin: 120px auto; /* space for fixed buttons */
+  margin: 120px auto; 
   padding: 20px;
 }
 
