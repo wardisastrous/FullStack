@@ -1,16 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1556" height="1498" alt="Screenshot 2026-02-25 130744" src="https://github.com/user-attachments/assets/c7940d0a-ca42-48d3-a6ce-01028ea812f0" />
+<img width="1095" height="1051" alt="Screenshot 2026-02-25 130902" src="https://github.com/user-attachments/assets/93285e75-56ad-4008-b582-b45081b7c93b" />
+<img width="1220" height="1173" alt="Screenshot 2026-02-25 130917" src="https://github.com/user-attachments/assets/1083e41b-546d-4c02-bf72-c466da3c3d8c" />
+<img width="1197" height="1013" alt="Screenshot 2026-02-25 130939" src="https://github.com/user-attachments/assets/bbfe1a6f-9026-4dbf-9e1c-6898cfef19e3" />
+<img width="1160" height="1185" alt="Screenshot 2026-02-25 131922" src="https://github.com/user-attachments/assets/2c058f04-44dc-45c7-ab15-de3e2732684e" />
